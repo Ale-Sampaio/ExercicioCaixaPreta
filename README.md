@@ -9,7 +9,7 @@ A Twitch TV é uma plataforma de streaming ao vivo centrada na comunidade de jog
 - Windows
 - Google Chrome / Mozilla Firefox
 - Extensão Selenium IDE
-- 
+  
 ## Instalação
 Para o Teste funcionar precisa baixar o arquivo Side e abrir na extensão Selenium IDE.
 
