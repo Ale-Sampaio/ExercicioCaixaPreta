@@ -1,4 +1,4 @@
-# ExercicioCaixaPreta
+# Exercicio Caixa Preta
 ## Descrição
 O teste de caixa preta da tela de login e cadastro da Twitch se dedica a avaliar a eficiência do sistema sem examinar seus detalhes internos de programação. Em outras palavras, estamos focando na interface que os usuários finais interagem, sem levar em conta o código por trás dela.
 
