@@ -24,7 +24,7 @@ Além de apenas aceitar a entrada do usuário, é crucial testar se a Twitch val
 Esta fase do teste se concentra em garantir que os usuários tenham uma experiência suave e eficiente ao recuperar suas senhas. Isso inclui verificar se os e-mails de recuperação de senha são enviados prontamente e se contêm as informações necessárias para o usuário seguir adiante com o processo de redefinição de senha. Além disso, é importante testar se o link fornecido no e-mail de recuperação de senha leva os usuários à página correta e se o processo de redefinição de senha é claro e fácil de entender, mesmo para aqueles com pouca experiência técnica.
 
 ## Video de Testes
-www
+https://www.youtube.com/watch?v=e5VQUqQnIi4
 
 ## Autores:
 #### Alexandre Sampaio
